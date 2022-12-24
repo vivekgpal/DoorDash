@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container{
+    padding-top: 7% !important;
+   
+ 
+}
+.center{
+    text-align: center;
+}
+
+
+/* top  */
+
+.top{
+    background-image: url("https://img.cdn4dd.com/cdn-cgi/image/fit=cover/https://cdn.doordash.com/media/consumer/home/landing/new/hero_landing_us_alt.jpg");
+    background-size: cover ;
+    background-position: center center;
+    background-position-x: center;
+    background-position-y: center;
+}
+.brand{
+   
+    width: 60%;
+
+    
+}
+.navbar-brand{
+    padding-left: 70%;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.nav-link .btn{
+    font-weight: bold;
+ 
+}
+.sign-in{
+    color: #fff;
+}
+.sign-up{
+    color: gray;
+}
+
+.heading{
+    text-align: center !important;
+    color: #fff;
+    margin-top: 150px;
+    padding-bottom: 200px;
+    
+}
+
+.search-box{
+   width: 30%;
+    background-color: #fff;
+    margin-left: 35%;
+ 
+}
+.searchbox{
+ padding-top: 5px;
+ padding-bottom: 5px;
+}
+.arrow{
+  margin-left: 5px;
+  margin-right: 5px ;
+}
+.location{
+  
+    color: grey;
+    
+}
+.form-control{
+    border: none;
+}
+.saved-add{
+    color: #fff;
+}
+
+/* middle */
+.iphone{
+    height: 154px;
+}
+.details p,.details h1{
+   padding: 0 20%;
+}
+
+.imgs{
+    width: 100%
+}
+
+/* footer  */
+footer{
+   background-color: black;
+   color: #fff;
+   padding: 3% 15%;
+   margin-top: 7%;
+}
+footer a{
+    color: #fff;
+}
+.small-footer{
+    padding-top: 3%;
+}
+.small-footer i{
+    padding: 0 1%;
+}
+
+@media screen {
+    
+}
